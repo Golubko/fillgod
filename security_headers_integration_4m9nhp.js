@@ -1,0 +1,1 @@
+.highlight > pre, pre > code {
